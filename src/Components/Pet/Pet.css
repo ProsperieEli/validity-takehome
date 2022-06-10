@@ -1,0 +1,24 @@
+.pets {
+    gap: 20px;
+    flex-direction: row;
+    display: flex;
+    display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+p {
+    border: 6px solid black;
+    width: 150px;
+    height: 200px;
+  
+}
+
+li {
+    list-style-type: none;
+}
